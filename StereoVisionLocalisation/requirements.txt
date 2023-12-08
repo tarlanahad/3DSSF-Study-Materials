@@ -1,0 +1,9 @@
+numpy
+pandas
+pillow
+tqdm
+opencv-python
+matplotlib
+scipy
+plotly
+PyQt5
